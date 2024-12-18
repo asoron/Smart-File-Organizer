@@ -33,27 +33,3 @@ This project provides an automated solution for managing desktop files. It intel
 *   Access settings, search, and exit options by right-clicking the tray icon.
 *   Customize settings via the user interface.
 *   Search for files using the built-in search tool.
-
-## Technologies
-
-*   **Python:** Core development language.
-*   **PyQt5:** User interface framework.
-*   **watchdog:** File system monitoring.
-*   **psutil:** System resource monitoring.
-*   **zipfile:** File compression.
-*   **logging:** Operation logging.
-*   **pathlib:** File path management.
-*   **json:** Settings management.
-
-## Contributing
-
-Contributions are welcome! Please submit bug reports, feature requests, or code contributions.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Additional Information
-
-*   This is a personal project designed for learning and practical use.
-*   Future updates and features are planned.
